@@ -1,0 +1,15 @@
+ipykernel
+matplotlib
+numpy
+pandas
+seaborn
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain.chains
+langchain_vectorstores
+langchain_core
+open embeddings
+langchain_groq
